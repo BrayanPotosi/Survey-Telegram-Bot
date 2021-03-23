@@ -1,0 +1,15 @@
+{
+    "welcome_message":
+        
+        "Bienvenido a la encuesta?",
+
+    "questions":
+        [ 
+            "Cuantas horas haces de ejercicio al dia?",
+            "Cuanta agua consumes al dia?",
+            "Cada cuantos dias compra agua?",
+            "Cual es su marca de agua favorita",
+            "De 1 a 10 cual seria su calificacion?",
+            "Recomendaria esa marca de agua?"
+        ]
+}
