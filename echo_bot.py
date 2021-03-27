@@ -4,7 +4,7 @@ import json
 
 
 bot = telebot.TeleBot(
-    "1775897386:AAGD4Y6C2_jTl6RrnbMUAeqSbvAAFgHHmsk", parse_mode=None)
+    "Telegram_key", parse_mode=None)
 
 app = Flask(__name__)
 
